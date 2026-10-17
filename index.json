@@ -1,0 +1,11 @@
+{
+  "org": "yzhao062",
+  "repo": "pyod",
+  "versions": [
+    {
+      "commit": "f0d0967d162ed46150cfa39ca61ffd1e7f78404b",
+      "tag": "v3.6.7",
+      "parsed_at": "2026-10-17T18:47:25.736918+00:00"
+    }
+  ]
+}
