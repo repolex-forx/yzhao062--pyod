@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/yzhao062/pyod/commit/f0d0967d162ed46150cfa39ca61ffd1e7f78404b",
       "git:hexsha": "f0d0967d162ed46150cfa39ca61ffd1e7f78404b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.6.7"
     },
     {
